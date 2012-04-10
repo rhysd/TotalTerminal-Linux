@@ -13,7 +13,9 @@ Original Application is http://totalterminal.binaryage.com/ .
 
 % cp total_terminal /usr/local/bin
 
-## associate some keymaping with executing this script using tools like compiz-config-setting-manager
+## associate some keymapping 
+
+associate some keymapping with executing this script using tools like compiz-config-setting-manager.
 
 I set Alt + Return.
 
